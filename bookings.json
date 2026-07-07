@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "Existing Customer",
+    "from_date": "2026-01-10",
+    "to_date": "2026-01-15",
+    "total": 9000.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 2,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "Eunijoy Ced",
+    "from_date": "2026-07-06",
+    "to_date": "2026-07-09",
+    "total": 1440.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 3,
+    "equipment_id": 3,
+    "equipment_name": "HD Projector",
+    "customer": "",
+    "from_date": "2026-07-09",
+    "to_date": "2026-07-15",
+    "total": 5400.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 4,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "",
+    "from_date": "2026-07-07",
+    "to_date": "2026-07-15",
+    "total": 12000.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 5,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "Euni",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-25",
+    "total": 2880.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 6,
+    "equipment_id": 4,
+    "equipment_name": "PA Speaker System",
+    "customer": "Euni",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-25",
+    "total": 10800.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 7,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "Euni",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-25",
+    "total": 9000.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 8,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "Test",
+    "from_date": "2026-08-05",
+    "to_date": "2026-08-10",
+    "total": 2880.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 9,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "Test",
+    "from_date": "2026-08-05",
+    "to_date": "2026-08-10",
+    "total": 9000.0,
+    "status": "confirmed"
+  }
+]
